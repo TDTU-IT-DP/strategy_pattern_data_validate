@@ -1,3 +1,4 @@
+// example
 
 public class FloatValidator implements StrategyValidator {
     @Override
