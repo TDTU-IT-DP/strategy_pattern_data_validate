@@ -1,0 +1,2 @@
+# strategy_pattern_data_validate
+strategy_pattern_data_validate
